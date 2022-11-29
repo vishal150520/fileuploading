@@ -1,0 +1,12 @@
+Task 1: XML parsing of skus (REterieve data of skus in tabular form in below coloumn)
+211397863.xml
+
+ean_english, ean_arabic,  display_name_arabic, display_name_english, short_description_english, short_description_arabic, Images(Images will be comma separeted)
+
+Show null if does not got any value
+
+
+Task 2: Convert XML file into csv formate
+
+
+
